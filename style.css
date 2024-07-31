@@ -97,8 +97,8 @@ sticky
     /* gap: 50px; */
     /* flex-direction: column; */
    /* background: url("https://gzbsingh.github.io/images/background.jpg"); */
-   /* background: url('./img/Screenshot\ \(226\).png'); */
-   background: url('https://www.jio.com/masthead-desk.jpg');
+    background: url('./img/Screenshot\ \(226\).png'); 
+  /* background: url('https://www.jio.com/masthead-desk.jpg'); */
 
    background-repeat: no-repeat;
    background-position: center;
