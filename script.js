@@ -22,7 +22,7 @@ observer.observe(section_hero)
 // typeing animation ===================================
 
 
-let arr = ['Front-End Developer.'] //, 'React Enthusiastic.', 'Problem Solver.', 'Fast Learner.']
+let arr = ['Full Stack Developer.','Front-End Developer.', 'Back-End Developer] //, 'React Enthusiastic.', 'Problem Solver.', 'Fast Learner.']
 
 const text = document.querySelector('.second-text');
 
